@@ -25,7 +25,6 @@
         ronghe.ipynb
 文件说明：
         
-        data文件夹存放原始数据
         
         result文件夹存放结果文件
         
